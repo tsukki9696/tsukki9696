@@ -1,1 +1,6 @@
-I don't know how you ended up here but I'm sorry. Hi, I'm Tsukki, Linux enthusiast and eternal tinkerer, this place has some of my projects and things I like working on, enjoy your stay.
+Hi, I'm Tsukki 🌙
+---
+I'm a programmer, Linux user and I enjoy building things and learning about computers. This profile has some of the things I really like working on, enjoy your stay while you're here.
+
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,vim,linux,ps,ai,figma)](https://skillicons.dev)
